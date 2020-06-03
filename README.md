@@ -11,3 +11,7 @@ JSON, Data, UITabBarController
 
 DispatchQueue, perform(inBackground:)
 - Learn how to run complex tasks in the background with GCD.
+
+### Project16: Capital Cities
+MKMapView, MKAnnotation, MKPinAnnotationView, CLLocationCoordinate2D
+- Teach users about geography while you learn about MKMapView and annotations.
